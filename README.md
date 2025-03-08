@@ -2,6 +2,8 @@
 
 Uma ferramenta moderna e profissional para criar currículos impressionantes, totalmente gratuita e sem necessidade de cadastro.
 
+🌐 **Acesse agora:** [resume-builder-cv.netlify.app](https://resume-builder-cv.netlify.app)
+
 ![Gerador de Currículo](./src/assets/screeshot/screenshot.png)
 
 ## 🚀 Características Principais
