@@ -9,7 +9,6 @@ Uma ferramenta moderna e profissional para criar currículos impressionantes, to
 - **Múltiplos Templates**: Escolha entre diversos modelos profissionais e personalizáveis para seu currículo
 - **Privacidade Garantida**: Seus dados nunca são armazenados em servidores externos
 - **Exportação em PDF**: Exporte seu currículo em PDF com alta qualidade
-- **Código Aberto**: Projeto open-source, transparente e mantido pela comunidade
 
 ## 🔒 Privacidade e Segurança
 
